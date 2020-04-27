@@ -1,0 +1,37 @@
+:root {
+    --dark: #313131;
+    --text-gray: #999999;
+    --border-gray: #ebebeb;
+    --shadow-gray: #f8f8f8;
+    --base-gray: #f5f5f5;
+}
+
+* {
+    font: 16px HelveticaNeue-medium, sans-serif;
+    letter-spacing: .4px;
+}
+
+.light-font {
+    font-family: HelveticaNeue, sans-serif;
+}
+
+.button {
+    cursor: pointer;
+}
+
+ion-header {
+    padding: 4%;
+}
+
+ion-footer {
+    padding: 4%;
+}
+
+.header-icon {
+    width: 36px
+}
+
+.description-font, .description-font * {
+    font-size: 12px;
+    color: var(--text-gray);
+}

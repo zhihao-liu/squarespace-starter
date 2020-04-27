@@ -1,0 +1,14 @@
+.choose-style-segment {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.choose-style-segment::-webkit-scrollbar {
+    display: none;
+}
+
+.choose-style-segment img {
+    outline: 1px var(--dark);
+    width: 20%;
+    margin: 2px 12px 12px 2px;
+}

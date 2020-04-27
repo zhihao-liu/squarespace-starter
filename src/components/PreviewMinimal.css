@@ -1,0 +1,53 @@
+.preview-minimal {
+    width: auto;
+    background-color: white;
+}
+
+.preview-minimal .preview-header {
+    text-align: right;
+    width: 100%;
+    background-color: var(--text-gray);
+    padding: 6%;
+    z-index: 1;
+}
+
+.preview-minimal .preview-menu-icon {
+    color: white;
+}
+
+.preview-minimal .website-name {
+    font-family: Gill Sans, sans-serif;
+    color: var(--dark);
+    margin: 6% 0;
+}
+
+.preview-minimal .content {
+    padding: 0 6%;
+}
+
+.preview-minimal .gallery img {
+    width: 48%;
+    margin-bottom: 4%;
+}
+
+.preview-minimal .gallery img + img {
+    margin-left: 4%;
+}
+
+.preview-minimal .preview-footer {
+    width: 100%;
+    background-color: black;
+    margin: 8% 0 0;
+    padding: 20% 0 4%;
+}
+
+.preview-minimal .footer-logo {
+    width: 50%;
+    margin: 0 25%;
+}
+
+.preview-minimal .copyright-text {
+    font: 80% Nunito, sans-serif;
+    color: var(--text-gray);
+    margin-left: 26%;
+}

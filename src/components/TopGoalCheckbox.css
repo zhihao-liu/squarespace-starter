@@ -1,0 +1,16 @@
+.top-goal-checkbox {
+    border: solid 1pt;
+    margin: 16px 0;
+}
+
+.top-goal-checkbox .top-goal-text {
+    font-family: HelveticaNeue, sans-serif;
+    margin: 16px 0;
+}
+
+.top-goal-checkbox .checkbox {
+    width: 12px;
+    height: 12px;
+    margin-right: 12px;
+    border: solid 1pt;
+}

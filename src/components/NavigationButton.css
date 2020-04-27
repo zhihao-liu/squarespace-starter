@@ -1,0 +1,10 @@
+.navigation-button {
+    border: solid 1px;
+    display: inline-block;
+    padding: 16px 20px;
+}
+
+.navigation-button span {
+    font-size: 14px;
+    letter-spacing: 1px;
+}

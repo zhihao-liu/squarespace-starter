@@ -1,0 +1,10 @@
+.question-page ion-content {
+    --padding-top: 20%;
+    --padding-bottom: 2%;
+    --padding-start: 4%;
+    --padding-end: 4%;
+}
+
+.question-page .interactive-section {
+    margin: 8% 0;
+}

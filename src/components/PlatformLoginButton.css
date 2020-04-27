@@ -1,0 +1,16 @@
+.platform-login-button {
+    border: 1pt solid var(--border-gray);
+    margin: 16px 0;
+}
+
+.platform-login-button span {
+    font-size: 16px;
+    color: var(--dark);
+    margin: 16px 0 16px;
+}
+
+.platform-login-button img {
+    width: 24px;
+    float: right;
+}
+

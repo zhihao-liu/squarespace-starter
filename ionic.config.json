@@ -1,0 +1,7 @@
+{
+  "name": "Squarespace Starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

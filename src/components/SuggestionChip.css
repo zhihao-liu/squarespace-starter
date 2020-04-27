@@ -1,0 +1,10 @@
+.suggestion-chip {
+    border: solid 1pt;
+    display: inline-block;
+    padding: 8px 12px 12px;
+    margin: 6px 8px 6px 0;
+}
+
+.suggestion-chip span {
+    font: 14px HelveticaNeue, sans-serif;
+}

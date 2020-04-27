@@ -1,0 +1,36 @@
+#styles-page ion-header,
+#styles-page ion-footer,
+#styles-page ion-content {
+    background-color: var(--base-gray);
+    --ion-background-color: var(--base-gray);
+}
+
+#styles-page .squarespace-logo {
+    margin: 1.5% 0;
+}
+
+#styles-page #preview-button {
+    float: right;
+}
+
+#styles-page #phone-mock {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#styles-page #preview-section {
+    position: relative;
+    width: 61%;
+    margin: 21.5% auto 0;
+}
+
+#styles-page #preview-section > * {
+    position: absolute;
+    width: 100%;
+}
+
+#styles-page #choose-style-title {
+    color: var(--dark);
+    margin: 16px 0;
+}

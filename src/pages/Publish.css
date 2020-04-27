@@ -1,0 +1,59 @@
+#publish-page ion-header,
+#publish-page ion-content {
+    background-color: var(--base-gray);
+    --ion-background-color: var(--base-gray);
+}
+
+#publish-page ion-footer {
+    position: absolute;
+    bottom: 0;
+    padding: 40% 28% 10%;
+    background: linear-gradient(to bottom, rgba(245, 245, 245, 0) 10%, rgba(245, 245, 245, 1) 50%);
+}
+
+#publish-page #prompt {
+    width: 100%;
+    background-color: var(--base-gray);
+    position: fixed;
+    padding: 0 8%;
+    z-index: 1;
+}
+
+#publish-page #prompt h1 {
+    font-size: 24px;
+}
+
+#publish-page #prompt span {
+    font: 14px HelveticaNeue, sans-serif;
+    color: var(--text-gray);
+    text-decoration: underline;
+}
+
+#publish-page #prompt ion-icon {
+    font-size: 10px;
+    margin: 0 12px;
+}
+
+#publish-page #phone-mock {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#publish-page #preview-section {
+    position: relative;
+    width: 62.5%;
+    margin: 28% auto 0;
+}
+
+#publish-page #preview-section > * {
+    position: absolute;
+    width: 100%;
+    margin: 34% auto;
+}
+
+#publish-page #choose-style-title {
+    color: var(--dark);
+    margin: 16px 0;
+}
+

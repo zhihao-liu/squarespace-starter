@@ -1,0 +1,24 @@
+#home-page ion-header {
+    background: black;
+}
+
+#home-page #menu-button {
+    color: white;
+    float: right;
+    margin: 1% 0;
+}
+
+#home-page #background-image-container {
+    position: relative;
+}
+
+#home-page #background-image {
+    width: 100%;
+}
+
+#home-page #start-button {
+    position: absolute;
+    top: 16%;
+    left: 34%;
+    width: 33%;
+}

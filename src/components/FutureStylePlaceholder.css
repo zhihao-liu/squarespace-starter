@@ -1,0 +1,10 @@
+.future-style-placeholder {
+    display: flex;
+    height: 100%;
+}
+
+.future-style-placeholder * {
+    margin: 40% auto;
+    color: var(--text-gray);
+}
+

@@ -1,0 +1,13 @@
+.breaker-with-text {
+    text-align: center;
+    height: 12px;
+    border-bottom: 1px solid var(--border-gray);
+    margin: 20px 0 32px;
+}
+
+.breaker-with-text .inner-text {
+    font-size: 12px;
+    color: var(--text-gray);
+    background: white;
+    padding: 0 24px;
+}
